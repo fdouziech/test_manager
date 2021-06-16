@@ -1,2 +1,4 @@
 # test_manager
-manage windows SNAP gpt tests 
+To manage windows SNAP gpt tests 
+
+
